@@ -1,6 +1,6 @@
 ## EX. NO:2 IMPLEMENTATION OF PLAYFAIR CIPHER
 
- Name: DHARSHINIYAA KS (212223100004)
+** Name: DHARSHINIYAA KS (212223100004)**
 
 ## AIM:
 To write a C program to implement the Playfair Substitution technique.

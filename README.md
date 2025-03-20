@@ -174,6 +174,7 @@ int main() {
 ```
 
 Output:
+
 ![alt text](<Screenshot 2025-03-20 094930.png>)
 
 RESULT:
